@@ -5,7 +5,7 @@ const fs = require('fs');
 
 const web3 = new Web3('https://data-seed-prebsc-1-s1.binance.org:8545/');
 
-const account = '0x416191f90097[Enter You Public Key]A667A518bAF3cd6'; 
+const account = '0x416191f900977e7562aABD168A667A518bAF3cd6'; 
 const privateKey = Buffer.from('e4aed8d219d16d[Enter Your Private Key]10195a56f1b3fc8067f', 'hex');
 
 const contractAddress = '0x78867BbEeF44f2326bF8DDd1941a4439382EF2A7'; // The BUSD testnet token address
